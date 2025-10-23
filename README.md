@@ -52,3 +52,8 @@ eg: if you like a post the heart color turns red from white rest the things are 
 # What is Vite in React 
 :In a React project created with Vite, there’s a file called vite.config.js — it controls how your app is built and runs.
 : It tells Vite how to run, build, and optimize your React app.
+
+# eslint.config.js
+:ESLint acts like a code checker or grammar teacher for your code.
+It helps you write clean, consistent, and error-free JavaScript (and React) code.
+:It helps you catch small mistakes early (like missing imports or unused variables) before they break your app.
