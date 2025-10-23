@@ -48,3 +48,7 @@ eg: if you like a post the heart color turns red from white rest the things are 
 2:When something changes (like a user typing or clicking), React updates the Virtual DOM first.
 3:Then, React compares the new Virtual DOM with the previous version to see what actually changed.
 4:Finally, it updates only those parts in the real DOM that need to change.
+
+# What is Vite in React 
+:In a React project created with Vite, there’s a file called vite.config.js — it controls how your app is built and runs.
+: It tells Vite how to run, build, and optimize your React app.
