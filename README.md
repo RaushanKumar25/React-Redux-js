@@ -57,3 +57,20 @@ eg: if you like a post the heart color turns red from white rest the things are 
 :ESLint acts like a code checker or grammar teacher for your code.
 It helps you write clean, consistent, and error-free JavaScript (and React) code.
 :It helps you catch small mistakes early (like missing imports or unused variables) before they break your app.
+
+# # React Components: Class vs Functional
+: This project demonstrates the difference between **Class Components** and **Functional Components** in React. It is aimed at beginners for easy understanding.
+
+>Class Component:-
+Old style React.
+Likha jata hai class ke through.
+State aur lifecycle methods use karne ke liye this aur render() lagta hai.
+Thoda complex.
+
+>Functional Component:-
+
+Modern React.
+Likha jata hai simple function ke through.
+State aur lifecycle ke liye Hooks use karte hain (useState, useEffect).
+Simple aur easy to read.
+
