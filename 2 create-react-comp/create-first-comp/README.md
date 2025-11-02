@@ -33,3 +33,8 @@ Creating functional components (App, Greeting)
 Rendering components and JSX
 Running a React app locally with npm run dev
 
+# Dynamic components 
+
+1: Dynamic component: jsx allows the creation of dynamic and interactive UI components.
+2: JavaScript Expressions: using {}, we can embed within jsx. this includes variable, function calls amd more.
+
