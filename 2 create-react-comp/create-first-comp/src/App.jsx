@@ -1,5 +1,6 @@
 import mybutton from "./mybutton";
 import Hello from "./hello";
+import Random from "./Random";
 
 function App() {
   return (
@@ -8,6 +9,9 @@ function App() {
       <p>This is my first React component working perfectly.</p>
       <button>like me ♡</button>
       <Hello></Hello>
+      <Random></Random>
+      <Random></Random>
+      
       
     </div>
   );
