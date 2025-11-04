@@ -12,3 +12,11 @@ This project helps you understand React fundamentals like **state**, **props**, 
 - ❌ Delete tasks  
 - 💾 Saves tasks in local storage (optional)  
 - 📱 Responsive layout using CSS Flexbox
+
+
+## 🧠 Tech Stack
+
+- **React 18+** — UI library  
+- **Vite** — For fast build and development  
+- **JavaScript (ES6+)** — Logic and interactions  
+- **CSS3** — Styling and responsiveness  
