@@ -8,8 +8,9 @@
 input{
     width: 50%;
 }
-
-.todo-container {
-    
-
+.items-container {
+    text-align: left;
+}
+.kg-row {
+  margin: 10px 5px;
 }
