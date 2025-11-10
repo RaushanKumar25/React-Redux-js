@@ -1,5 +1,5 @@
 const CurrentTime = () => {
-  return <h1>Bharat Clock</h1>;
+  return <h1>This is the current time..</h1>;
 };
 
-export default ClockHeading;
+export default CurrentTime;
