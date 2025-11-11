@@ -1,9 +1,9 @@
 const CurrentTime = () => {
   let time = new Date();
   return (
-    <h1>
+    <p className = "lead">
       Current Date and Time: {time.toLocaleDateString()} {time.toLocaleTimeString()}
-    </h1>
+    </p>
   );
 };
 

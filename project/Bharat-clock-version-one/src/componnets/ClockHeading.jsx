@@ -1,5 +1,5 @@
 const ClockHeading = () => {
-  return <h1>Bharat Clock</h1>;
+  return <h1 className = "fw-bold">Bharat Clock</h1>;
 };
 
 export default ClockHeading;
