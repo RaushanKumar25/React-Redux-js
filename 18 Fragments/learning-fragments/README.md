@@ -24,3 +24,5 @@ Helps render multiple components or HTML elements efficiently.
 🧠 Why Use It in React
 
 React components often display lists of data. Instead of writing repetitive JSX, map() helps generate them programmatically, keeping your code clean and scalable.
+
+# conditional statemets 
