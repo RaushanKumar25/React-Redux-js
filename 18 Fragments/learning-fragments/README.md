@@ -37,3 +37,16 @@ Show different components based on user actions
 Hide elements until data loads
 Display messages, errors, or alternative views
 Build dynamic and interactive interfaces
+
+# Passing data by props {properties}
+
+Props (short for “properties”) let you pass data from a parent component to a child component.
+It’s a one-way flow: Parent → Child.
+
+1. Why Props Are Used
+
+Props help you:
+share data between components
+avoid repeating the same logic
+make components reusable
+control how child components behave

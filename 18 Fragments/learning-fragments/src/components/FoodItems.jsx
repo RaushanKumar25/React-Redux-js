@@ -1,8 +1,7 @@
-const FoodItems = () => {
-    let foodItems = ["dal", "rice", "bread", "egg", "fish"];
+const FoodItems = ({ items }) => {
   return (
     <ul className="list-group">
-      {foodItems.map((item) => (
+      {items.map((item) => (
         <li key={item} className="list-group-item">
           {item}
         </li>
