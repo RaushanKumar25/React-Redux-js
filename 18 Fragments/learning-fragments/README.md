@@ -49,4 +49,36 @@ Props help you:
 share data between components
 avoid repeating the same logic
 make components reusable
-control how child components behave
+control how child components behave.
+
+
+
+# Passing Values via Props (README Section)
+What are Props?
+
+:Props are inputs you give to a React component. They let you send data from a parent component to a child component.
+
+# Why Props Are Used
+
+To share data between components
+To make components reusable
+To control how a child component behaves
+How Props Work
+Parent component sends the data
+Child component receives it through function parameters
+Child component uses it just like normal variables
+
+# Key Points
+
+Props are read-only
+Data flows one way: Parent → Child
+Child cannot change the props it receives
+
+# Example (Concept Only, No Code Explanation)
+
+Parent sends a food item list → Child displays it
+Parent sends a username → Child shows it in UI
+When to Use Props
+When multiple components need different data
+When you want a single reusable component
+When you want to separate logic and UI
