@@ -125,3 +125,6 @@ Makes UI more dynamic
 Reduces repeated code
 Helps follow React's one-way data flow
 Improves readability
+
+# Common Mistake to Avoid
+:Write that props cannot be changed inside the child component.
