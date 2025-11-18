@@ -101,3 +101,14 @@ When you want to separate logic and UI
 :Functions
 :Boolean values
 :This helps show how flexible props are.
+
+# how it helps 
+This helps show how flexible props are.
+Props Validation (Optional for beginners)
+You can mention PropTypes but note that it's optional.
+It shows you know about checking the correct data types.
+Destructuring Props
+Mention that props can be unpacked for cleaner code.
+(Example line, no code needed)
+“Instead of using props.value, you can directly extract value.
+
