@@ -112,3 +112,16 @@ Mention that props can be unpacked for cleaner code.
 (Example line, no code needed)
 “Instead of using props.value, you can directly extract value.
 
+# Props and Reusability
+
+Explain that passing props makes components reusable with different data.
+This is one of the strongest points in React.
+Props vs State
+Add a short comparison line:
+Props → data given from parent
+State → data managed inside the component
+Benefits of Using Props
+Makes UI more dynamic
+Reduces repeated code
+Helps follow React's one-way data flow
+Improves readability
