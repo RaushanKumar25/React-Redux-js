@@ -82,3 +82,22 @@ When to Use Props
 When multiple components need different data
 When you want a single reusable component
 When you want to separate logic and UI
+
+# Default Props
+
+:Explain that components can have default values if the parent doesn’t send any data.
+
+1:Props Type
+
+2:Mention that props can be:
+
+3:Strings
+
+4:Numbers
+
+5:Arrays
+
+# Objects
+:Functions
+:Boolean values
+:This helps show how flexible props are.
