@@ -1,0 +1,13 @@
+.kg-item {
+    background-color: khaki
+}
+
+.food-heading {
+    text-align: center;
+    color: teal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.kg-span {
+    font-weight: 600;
+    color:orangered;
+}
