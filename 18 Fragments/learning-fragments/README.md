@@ -128,3 +128,23 @@ Improves readability
 
 # Common Mistake to Avoid
 :Write that props cannot be changed inside the child component.
+
+# A CSS Module is a way to write CSS so that the styles apply only to the component where you use them. It prevents naming conflicts and avoids global CSS problems.
+
+Here is the idea in simple words:
+
+CSS Module = CSS that is automatically made unique for a single component.
+
+
+# Handling an event in React (or in general programming) simply means:
+Responding to something the user does.
+
+For example:
+1:Clicking a button
+2:Typing in an input
+3:Submitting a form
+4:Hovering the mouse
+5:Pressing a key
+
+When any of these actions happen, React runs a function you wrote.
+:-That function is called an event handler.
