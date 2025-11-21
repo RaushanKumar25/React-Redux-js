@@ -148,3 +148,44 @@ For example:
 
 When any of these actions happen, React runs a function you wrote.
 :-That function is called an event handler.
+
+What is “Handling an Event” in React?
+
+When you build a web app, users interact with it. They click buttons, type text, move the mouse, scroll, submit forms, and so on.
+Each of these actions is called an event.
+
+Handling an event means writing a function that runs when that event happens.
+
+Why is event handling important?
+
+Because it lets your app respond to the user.
+Without event handling, your app would feel dead and unresponsive.
+
+Examples of why we handle events:
+
+To update UI when the user clicks
+
+To show error messages during form submission
+
+To fetch data when a button is pressed
+
+To save the user’s typing
+
+To play/pause something
+
+To navigate between pages
+
+Basically, event handling makes apps interactive.
+
+How events work in React
+
+React uses something called synthetic events.
+These behave like browser events (onclick, onchange, onsubmit) but with better performance and cross-browser consistency.
+
+To handle an event:
+
+You add an event listener like onClick
+
+You pass a function to it
+
+React runs that function when the event happens
