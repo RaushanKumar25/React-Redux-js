@@ -41,4 +41,4 @@ React is commonly used to build:
 
 🔗 Frontend of full-stack applications
 
-React makes UI development structured, efficient, and easy to maintain.
+React makes UI development structured, efficient, and easy to maintain..
